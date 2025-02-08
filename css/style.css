@@ -241,3 +241,13 @@ h1 {
         padding: 20px;
     }
 }
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #000; /* Можно изменить на нужный цвет */
+  color: #fff;
+  padding: 10px 0;
+  font-size: 14px;
+}
